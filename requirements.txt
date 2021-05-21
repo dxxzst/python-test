@@ -1,3 +1,8 @@
-matplotlib
-plotly
-numpy
+matplotlib~=3.4.1
+plotly~=4.14.3
+numpy~=1.20.2
+requests~=2.25.1
+bs4~=4.9.3
+beautifulsoup4~=4.9.3
+stem~=1.8.0
+lxml~=4.6.3
