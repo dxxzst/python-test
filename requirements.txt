@@ -8,3 +8,4 @@ stem~=1.8.0
 lxml~=4.6.3
 seaborn~=0.11.1
 pandas~=1.2.4
+tushare~=1.2.64
